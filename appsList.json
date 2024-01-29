@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Blender",
+		"path": "C:/Program Files/Blender Foundation/Blender 3.0/blender.exe",
+		"icon": "C:/Users/Kevin/OneDrive/Pictures/Python/BlueButton/icons/blenderIcon.png"
+	},
+	{
+		"name": "Houdini",
+		"path": "C:/Program Files/Side Effects Software/Houdini 19.0.383/bin/houdini.exe",
+		"icon": "C:/Program Files (x86)/Steam/steamapps/common/Houdini Indie/engine/unreal/4.27/HoudiniEngine/Resources/Icons/icon_houdini_logo_128.png"
+	},
+	{
+		"name": "Resolve",
+		"path": "C:/Program Files/Blackmagic Design/DaVinci Resolve/Resolve.exe",
+		"icon": "C:/Users/Kevin/OneDrive/Pictures/Python/BlueButton/icons/resolveIcon.png"
+	},
+	{
+		"name": "Affinity Photo",
+		"path": "C:/Program Files/Affinity/Photo/Photo.exe",
+		"icon": "C:/Program Files/Affinity/Photo/PhotoHelp/Contents/Resources/shared/icon.png"
+	},
+	{
+		"name": "Affinity Designer",
+		"path": "C:/Program Files/Affinity/Designer/Designer.exe",
+		"icon": "C:/Program Files/Affinity/Designer/DesignerHelp/Contents/Resources/shared/icon.png"
+	}
+]

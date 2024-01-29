@@ -1,0 +1,1 @@
+A basic tool to consolidate DCC applications. To make it work locally you would beed to chagne the appList file to the paths of your own icons and exe files. I want to add a package manager to this in the near future. 
