@@ -1,0 +1,1 @@
+A quick example of how you can use python in Blender to manipulate assets via a csv file.
