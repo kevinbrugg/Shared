@@ -1,0 +1,1 @@
+Tool to check maya assets to make sure they are clean to import into a game engine. This will need changed depending on pipeline requirements.
